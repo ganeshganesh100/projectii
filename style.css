@@ -74,3 +74,13 @@ body{
 .movies{
     padding:50px;
 }
+
+.movies h2{
+    margin-bottom:20px;
+}
+
+.movie-row{
+    display:flex;
+    gap:15px;
+    overflow-x:auto;
+}
