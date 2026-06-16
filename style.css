@@ -32,6 +32,26 @@ body{
     gap:30px;
 }
 
+
+.hero{
+    height:100vh;
+    background:url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=1920')
+    center/cover;
+    display:flex;
+    align-items:center;
+    padding-left:80px;
+}
+
+.hero-content{
+    max-width:600px;
+}
+
+.hero-content h1{
+    font-size:4rem;
+    margin-bottom:20px;
+}
+
+
 .menu li{
     cursor:pointer;
 }
