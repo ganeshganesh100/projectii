@@ -56,3 +56,17 @@ body{
     cursor:pointer;
 }
 
+.hero-content p{
+    font-size:1.3rem;
+    margin-bottom:20px;
+}
+
+.play-btn{
+    background:red;
+    border:none;
+    padding:15px 30px;
+    color:white;
+    cursor:pointer;
+    font-size:18px;
+    border-radius:5px;
+}
