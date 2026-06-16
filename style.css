@@ -9,3 +9,30 @@ body{
     background:#141414;
     color:white;
 }
+
+.navbar{
+    position:fixed;
+    width:100%;
+    padding:20px 50px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:rgba(0,0,0,0.7);
+    z-index:100;
+}
+
+.logo{
+    color:red;
+    font-size:2rem;
+    font-weight:bold;
+}
+.menu{
+    display:flex;
+    list-style:none;
+    gap:30px;
+}
+
+.menu li{
+    cursor:pointer;
+}
+
