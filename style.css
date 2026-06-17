@@ -88,3 +88,12 @@ body{
     min-width:250px;
     transition:.4s;
 }
+
+.movie-card img{
+    width:100%;
+    border-radius:10px;
+}
+
+.movie-card:hover{
+    transform:scale(1.1);
+}
