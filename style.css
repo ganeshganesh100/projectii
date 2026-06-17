@@ -84,3 +84,7 @@ body{
     gap:15px;
     overflow-x:auto;
 }
+.movie-card{
+    min-width:250px;
+    transition:.4s;
+}
