@@ -23,3 +23,11 @@ BabyTube is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) applicati
 - Educational Categories
 - Favorite Videos
 - Watch History
+
+### 🎥 Video Features
+- YouTube API Integration
+- Safe Search Enabled
+- Embedded Video Player
+- Category-Based Browsing
+- Search Functionality
+- Educational Content Only
