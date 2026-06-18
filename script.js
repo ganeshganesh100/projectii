@@ -9,7 +9,7 @@ const connectDB = require("./config/db");
 
 
 dotenv.config();
-
+// Connect to the database (e.g., MongoDB) using the configuration function
 connectDB();
 
 const app = express();
