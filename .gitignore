@@ -1,1 +1,6 @@
 # Build and Release Folders
+# 👶 BabyTube - Safe Video Streaming Platform for Kids
+
+BabyTube is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to provide a safe and educational video streaming experience for children. The platform uses the YouTube Data API to display child-friendly videos while allowing parents to manage profiles, favorites, watch history, and screen time.
+
+---
