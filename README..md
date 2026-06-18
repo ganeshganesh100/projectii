@@ -17,6 +17,17 @@
 
 
 
+
+# 🏗 Tech Stack
+
+## Frontend
+- React.js
+- Vite
+- React Router DOM
+- Axios
+- Tailwind CSS (Optional)
+
+
 # 🏗 Tech Stack
 
 ## Frontend
