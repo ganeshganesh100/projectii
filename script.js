@@ -4,6 +4,9 @@ const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
 const connectDB = require("./config/db");
+// Load environment variables from the .env file into process.env
+
+
 
 dotenv.config();
 
