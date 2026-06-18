@@ -15,3 +15,12 @@
 - React Router DOM
 - Axios
 - Tailwind CSS (Optional)
+
+
+
+### 👶 Child Features
+- Safe Video Search
+- Age-Based Content Filtering
+- Educational Categories
+- Favorite Videos
+- Watch History
