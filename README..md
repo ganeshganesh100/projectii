@@ -1,4 +1,14 @@
 
+
+
+### 🎥 Video Features
+- YouTube API Integration
+- Safe Search Enabled
+- Embedded Video Player
+- Category-Based Browsing
+- Search Functionality
+- Educational Content Only
+
 ### 🛠 Admin Features
 - Manage Approved Channels
 - Manage Categories
