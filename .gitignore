@@ -6,3 +6,12 @@ BabyTube is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) applicati
 ---
 
 ## 🚀 Features
+
+### 👨‍👩‍👧 Parent Features
+- Secure Registration & Login
+- JWT Authentication
+- Parent Dashboard
+- Create & Manage Child Profiles
+- Screen Time Control
+- Watch History Monitoring
+- Favorite Videos Management
