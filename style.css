@@ -34,3 +34,16 @@ body::before{
     left:-100px;
     opacity:.4;
 }
+
+
+body::after{
+    content:'';
+    position:absolute;
+    width:350px;
+    height:350px;
+    background:#3b82f6;
+    filter:blur(180px);
+    bottom:-100px;
+    right:-100px;
+    opacity:.4;
+}
