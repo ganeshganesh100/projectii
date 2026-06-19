@@ -19,3 +19,18 @@ body{
     );
     overflow:hidden;
 }
+
+
+
+/* Background Glow */
+body::before{
+    content:'';
+    position:absolute;
+    width:400px;
+    height:400px;
+    background:#ff0000;
+    filter:blur(180px);
+    top:-100px;
+    left:-100px;
+    opacity:.4;
+}
