@@ -9,5 +9,5 @@ dotenv.config();
 
 dotenv.config();
 
-connectDB();
+
 
