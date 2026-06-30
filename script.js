@@ -10,7 +10,6 @@
  * 2. Connecting to the database.
  * 3. Initializing the Express application.
  * 4. Configuring middleware.
- * 5. Registering API routes.
- 
+
  **************************************************************************/
 
